@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+pytesseract
+pdfplumber
+pillow
+python-docx
+numpy
+faiss-cpu
+sentence-transformers
+spacy
+spacy-transformers
+langchain
+langchain-openai
+torch
