@@ -246,7 +246,7 @@ This project is open source. Please refer to the LICENSE file for more informati
 
 ## 👤 Author
 
-**Ritvik R** - Creator and maintainer of LegalAI
+**Ritvik** - Creator and maintainer of LegalAI
 
 ## 🤝 Contributing
 
